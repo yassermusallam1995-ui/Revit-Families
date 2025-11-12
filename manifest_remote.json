@@ -7,6 +7,14 @@
       "description": "new task chair",
       "thumbnailId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Chair_02_thumbnail.jpg",
       "familyFileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Chair_02.rfa"
+    },
+    {
+      "id": "Table",
+      "name": "Table2",
+      "category": "Table",
+      "description": "Table",
+      "thumbnailId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Table_thumbnail.jpg",
+      "familyFileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Table.rfa"
     }
   ]
 }
