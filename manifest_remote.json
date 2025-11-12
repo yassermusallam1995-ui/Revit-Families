@@ -1,0 +1,12 @@
+{
+  "families": [
+    {
+      "id": "family-01",
+      "name": "Chair2",
+      "category": "Chairs",
+      "description": "new task chair",
+      "thumbnailId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Chair_02_thumbnail.jpg",
+      "familyFileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Chair_02.rfa"
+    }
+  ]
+}
