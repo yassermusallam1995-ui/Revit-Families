@@ -15,6 +15,18 @@
       "description": "Table",
       "thumbnailId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Table_thumbnail.jpg",
       "familyFileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Table.rfa"
+    },
+    {
+      "id": "chair3",
+      "name": "chair3",
+      "category": "Chairs",
+      "description": "chair3",
+      "thumbnailId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/chair3_thumbnail.jpg",
+      "familyFileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/chair3.rfa",
+      "height": 600.0,
+      "width": 500.0,
+      "length": 500.0,
+      "isRound": false
     }
   ]
 }
