@@ -30,13 +30,13 @@
     },
     {
       "id": "Poltroan Chair",
-      "name": "Maryam Chair",
+      "name": "Poltrona Without MAX",
       "category": "Arm Chairs",
       "description": "Poltroan Chair",
       "thumbnailId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Poltroan.Chair_thumbnail.jpg",
       "familyFileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Poltroan.Chair.rfa",
       "height": "400",
-      "width": "200",
+      "width": "589",
       "length": "80",
       "isRound": false
     },
