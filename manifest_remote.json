@@ -27,6 +27,17 @@
       "width": 500.0,
       "length": 500.0,
       "isRound": false
+    },
+    {
+      "id": "Poltroan Chair",
+      "name": "Poltroan Chair",
+      "category": "Arm Chairs",
+      "description": "Poltroan Chair",
+      "thumbnailId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Poltroan.Chair_thumbnail.jpg",
+      "familyFileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Poltroan.Chair.rfa",
+      "height": "800",
+      "width": "800",
+      "length": "800"
     }
   ]
 }
