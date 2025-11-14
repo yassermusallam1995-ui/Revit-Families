@@ -35,9 +35,9 @@
       "description": "Poltroan Chair",
       "thumbnailId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Poltroan.Chair_thumbnail.jpg",
       "familyFileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Poltroan.Chair.rfa",
-      "height": "900",
-      "width": "500",
-      "length": "300",
+      "height": "700",
+      "width": "400",
+      "length": "60",
       "isRound": false
     },
     {
