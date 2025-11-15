@@ -45,39 +45,6 @@
       "isRound": false
     },
     {
-      "id": "Poltrona Chair 2",
-      "name": "Poltrona Chair 2",
-      "category": "Arm Chairs",
-      "description": "Poltrona Chair 2",
-      "thumbnailId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Poltrona.Chair.2_thumbnail.jpg",
-      "familyFileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Poltrona.Chair.2.rfa",
-      "height": "800",
-      "width": "800",
-      "length": "800",
-      "textureMaps": [
-        {
-          "name": "diffuze 3.jpg",
-          "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Poltrona.Chair.2_texture_0.jpg"
-        },
-        {
-          "name": "diffuze 4.jpg",
-          "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Poltrona.Chair.2_texture_1.jpg"
-        },
-        {
-          "name": "diffuze 5.jpg",
-          "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Poltrona.Chair.2_texture_2.jpg"
-        },
-        {
-          "name": "diffuze.jpg",
-          "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Poltrona.Chair.2_texture_3.jpg"
-        },
-        {
-          "name": "wood.jpg",
-          "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Poltrona.Chair.2_texture_4.jpg"
-        }
-      ]
-    },
-    {
       "id": "033-New Poltrona Chair",
       "name": "New Poltrona Chair",
       "category": "Chairs",
