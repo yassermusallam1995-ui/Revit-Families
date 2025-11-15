@@ -76,6 +76,40 @@
           "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/Poltrona.Chair.2_texture_4.jpg"
         }
       ]
+    },
+    {
+      "id": "033-New Poltrona Chair",
+      "name": "New Poltrona Chair",
+      "category": "Chairs",
+      "description": "New Poltrona Chair",
+      "thumbnailId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/033-New.Poltrona.Chair_thumbnail.jpg",
+      "familyFileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/033-New.Poltrona.Chair.rfa",
+      "height": "400",
+      "width": "400",
+      "length": "400",
+      "textureMaps": [
+        {
+          "name": "Map__2138626208_CoronaBitmap.png",
+          "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/033-New.Poltrona.Chair_texture_0.png"
+        },
+        {
+          "name": "Map__2138626701_CoronaBitmap.png",
+          "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/033-New.Poltrona.Chair_texture_1.png"
+        },
+        {
+          "name": "Map__2138626844_CoronaColor.png",
+          "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/033-New.Poltrona.Chair_texture_2.png"
+        },
+        {
+          "name": "Map__2138628213_CoronaBitmap.png",
+          "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/033-New.Poltrona.Chair_texture_3.png"
+        },
+        {
+          "name": "Map__2138798886_CoronaBitmap.png",
+          "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/033-New.Poltrona.Chair_texture_4.png"
+        }
+      ],
+      "maxFileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/033-New.Poltrona.Chair_max.zip"
     }
   ]
 }
