@@ -76,7 +76,9 @@
           "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/033-New.Poltrona.Chair_texture_4.png"
         }
       ],
-      "maxFileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/033-New.Poltrona.Chair_max.zip"
+      "maxFileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/033-New.Poltrona.Chair_max.zip",
+      "isRound": false,
+      "diameter": ""
     }
   ]
 }
