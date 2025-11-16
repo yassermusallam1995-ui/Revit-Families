@@ -87,9 +87,9 @@
       "description": "Minotti_Sofa",
       "thumbnailId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/0001_Minotti_Sofa_thumbnail.jpg",
       "familyFileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/0001_Minotti_Sofa.rfa",
-      "height": "900",
-      "width": "2000",
-      "length": "1500",
+      "height": "500",
+      "width": "500",
+      "length": "500",
       "textureMaps": [
         {
           "name": "Bezier Sofa by Minotti-001.png",
