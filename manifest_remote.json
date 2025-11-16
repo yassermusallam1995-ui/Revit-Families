@@ -79,6 +79,31 @@
       "maxFileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/033-New.Poltrona.Chair_max.zip",
       "isRound": false,
       "diameter": ""
+    },
+    {
+      "id": "0001_Minotti_Sofa",
+      "name": "Minotti_Sofa",
+      "category": "Sofas",
+      "description": "Minotti_Sofa",
+      "thumbnailId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/0001_Minotti_Sofa_thumbnail.jpg",
+      "familyFileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/0001_Minotti_Sofa.rfa",
+      "height": "900",
+      "width": "2000",
+      "length": "1500",
+      "textureMaps": [
+        {
+          "name": "Bezier Sofa by Minotti-001.png",
+          "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/0001_Minotti_Sofa_texture_0.png"
+        },
+        {
+          "name": "Bezier Sofa by Minotti-003.png",
+          "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/0001_Minotti_Sofa_texture_1.png"
+        },
+        {
+          "name": "Bezier Sofa by Minotti-006.png",
+          "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/0001_Minotti_Sofa_texture_2.png"
+        }
+      ]
     }
   ]
 }
