@@ -104,6 +104,31 @@
           "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/0001_Minotti_Sofa_texture_2.png"
         }
       ]
+    },
+    {
+      "id": "006_Minotti_Sofa",
+      "name": "Minotti_Sofa",
+      "category": "Sofas",
+      "description": "Minotti_Sofab",
+      "thumbnailId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/006_Minotti_Sofa_thumbnail.jpg",
+      "familyFileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/006_Minotti_Sofa.rfa",
+      "height": "500",
+      "width": "500",
+      "length": "500",
+      "textureMaps": [
+        {
+          "name": "Bezier Sofa by Minotti-001.png",
+          "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/006_Minotti_Sofa_texture_0.png"
+        },
+        {
+          "name": "Bezier Sofa by Minotti-003.png",
+          "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/006_Minotti_Sofa_texture_1.png"
+        },
+        {
+          "name": "Bezier Sofa by Minotti-006.png",
+          "fileId": "https://github.com/yassermusallam1995-ui/Revit-Families/releases/download/revit-families/006_Minotti_Sofa_texture_2.png"
+        }
+      ]
     }
   ]
 }
