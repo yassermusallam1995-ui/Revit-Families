@@ -156,6 +156,31 @@
       ],
       "referenceFileCode": "MS1",
       "revitTexturesPath": "C:Users\\Yasser Musallam\\AppData\\Roaming\\Autodesk\\Revit\\Imported Texture"
+    },
+    {
+      "id": "004_Sofa_Chair",
+      "name": "Sofa_Chair",
+      "category": "Sofas",
+      "description": "Sofa_Chair",
+      "thumbnailId": "https://filelink.pcloud.com/downloadXZLRPP5ZeCR82XIKbeBxpk0JcVqNiFnvGpu7",
+      "familyFileId": "https://filelink.pcloud.com/downloadXZTRPP5ZUBW2fBJbwUVTCjxUPzo9KfTgIPRV",
+      "height": "500",
+      "width": "500",
+      "length": "500",
+      "textureMaps": [
+        {
+          "name": "Bezier Sofa by Minotti-001.png",
+          "fileId": "https://filelink.pcloud.com/downloadXZCRPP5Z7Dti8gso75VHPOfErw7RK4dwwUFy"
+        },
+        {
+          "name": "Bezier Sofa by Minotti-003.png",
+          "fileId": "https://filelink.pcloud.com/downloadXZARPP5ZxnRpBxc2ecbhYhmr8P8phV9Jmrfk"
+        },
+        {
+          "name": "Bezier Sofa by Minotti-006.png",
+          "fileId": "https://filelink.pcloud.com/downloadXZ5LPP5ZDJnY8BSOfMY9FEYYHYKf0y0BvzjV"
+        }
+      ]
     }
   ]
 }
