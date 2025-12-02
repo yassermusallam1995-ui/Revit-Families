@@ -1,3 +1,29 @@
 {
-  "families": []
+  "families": [
+    {
+      "id": "00_3_Sofa",
+      "name": "Sofa",
+      "category": "Sofas",
+      "description": "Sofa",
+      "thumbnailId": "https://filelink.pcloud.com/downloadXZngtP5Zvj0k3bapSB0XsgI14PAjszIxfdNV",
+      "familyFileId": "https://filelink.pcloud.com/downloadXZTgtP5ZqxmayU0rggfMHEBAetW9M8l5Ezwy",
+      "height": "500",
+      "width": "500",
+      "length": "500",
+      "textureMaps": [
+        {
+          "name": "Bezier Sofa by Minotti-001.png",
+          "fileId": "https://filelink.pcloud.com/downloadXZrgtP5Zp8S1IDu7f1JBQ1p7mnuCJSmgd9hy"
+        },
+        {
+          "name": "Bezier Sofa by Minotti-003.png",
+          "fileId": "https://filelink.pcloud.com/downloadXZ7PtP5ZUn2lmeTSkW7iRkydE3NlfQ7NW9k0"
+        },
+        {
+          "name": "Bezier Sofa by Minotti-006.png",
+          "fileId": "https://filelink.pcloud.com/downloadXZ5PtP5Zv7YSHtPOICSzF6cv5VhvMkCcly2y"
+        }
+      ]
+    }
+  ]
 }
