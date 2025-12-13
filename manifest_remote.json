@@ -1,29 +1,3 @@
 {
-  "families": [
-    {
-      "id": "005_SofaBVC",
-      "name": "SofaBVC",
-      "category": "Sofas",
-      "description": "SofaBVC",
-      "thumbnailId": "https://p-lux2.pcloud.com/DLZDaiXA77ZNkuSaT7Zz3jC7ZZrpAe0kZNVZZ9uZZ7G5ZDRZkLZGFZbWKVrnUF0Ip9grlXndziUHNyGnYk/0001_Minotti_Sofa_Thumb.jpg",
-      "familyFileId": "https://p-lux3.pcloud.com/cfZQorXA77Z9MfSaT7Zz3jC7ZZQHAe0kZ2ZZ9uZZNTx97ZGRZXzZXRZumZmpZazZ7QZOLZLzZn8ZDmZnHZ9zZVFZN6iEN5FlKv7UkGMQfADM9kRp8say/0001_Minotti_Sofa.rfa",
-      "height": "700",
-      "width": "700",
-      "length": "700",
-      "textureMaps": [
-        {
-          "name": "Bezier Sofa by Minotti-001.png",
-          "fileId": "https://p-lux4.pcloud.com/cfZzocXA77ZIR2SaT7Zz3jC7ZZMHAe0kZ3VZZ9uZZPBmf7ZjmZHYZ6HZo8ZvRZt4ZbmZ18ZCHZR8Z2HZHpZOLZH4Z8dgQHs9w57SjjAYvirQixJYXTggV/Bezier%20Sofa%20by%20Minotti-001.png"
-        },
-        {
-          "name": "Bezier Sofa by Minotti-003.png",
-          "fileId": "https://p-lux3.pcloud.com/cfZvqoXA77ZQRWSaT7Zz3jC7ZZ6HAe0kZ3VZZ9uZZSj4sZApZ44Z38ZiLZ5QZXzZhLZNzZCRZeHZILZRRZ1QZBHZdUTzt3ydOsQY2ulDu0XxY7P9leQV/Bezier%20Sofa%20by%20Minotti-003.png"
-        },
-        {
-          "name": "Bezier Sofa by Minotti-006.png",
-          "fileId": "https://p-lux3.pcloud.com/cfZtcyVA77Zp3WSaT7Zz3jC7ZZ3HAe0kZ3VZZ9uZZLrzsZwmZtmZumZh4Z24Z5pZuRZmLZFLZkHZYRZNLZiLZ0HZQaggJwfB7WLKAvjHQ8B7kLK4pgN7/Bezier%20Sofa%20by%20Minotti-006.png"
-        }
-      ]
-    }
-  ]
+  "families": []
 }
