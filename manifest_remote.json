@@ -1,25 +1,3 @@
 {
-  "families": [
-    {
-      "id": "0088_MATER SOFA",
-      "name": "MATER SOFA",
-      "category": "Sofas",
-      "description": "MATER SOFA",
-      "thumbnailId": "https://p-lux2.pcloud.com/D4ZDaiXA77Z9osAaT7ZZZLLGe0kZNVZZHTXZkZ7G5ZGFZDRZkLZvLlC5ZId5UdkYNzs8EQ6pUMks9l5pqtCUk/0001_Minotti_Sofa_Thumb.jpg",
-      "familyFileId": "https://p-lux3.pcloud.com/cBZQorXA77Zg2xAaT7ZZZW4Ge0kZ2ZZHTXZkZNTx97ZGRZXzZXRZumZmpZazZ7QZOLZLzZn8ZDmZnHZ9zZVFZcLlC5Z9rGwR8gp1c4s1crqKe7UhuMkf0dy/0001_Minotti_Sofa.rfa",
-      "height": "600",
-      "width": "600",
-      "length": "600",
-      "textureMaps": [
-        {
-          "name": "Bezier Sofa by Minotti-001.png",
-          "fileId": "https://p-lux4.pcloud.com/cBZzocXA77Z1AIAaT7ZZZa8Ge0kZ3VZZHTXZkZPBmf7ZjmZHYZ6HZo8ZvRZt4ZbmZ18ZCHZR8Z2HZHpZOLZH4Zb4lC5ZV6EmKFcbvnBSLMSWU0Esz5fA1Cw7/Bezier%20Sofa%20by%20Minotti-001.png"
-        },
-        {
-          "name": "Bezier Sofa by Minotti-006.png",
-          "fileId": "https://p-lux3.pcloud.com/cBZtcyVA77ZL5HNaT7ZZZsmGe0kZ3VZZ9uZkZLrzsZwmZtmZumZh4Z24Z5pZuRZmLZFLZkHZYRZNLZiLZ0HZ94lC5ZhIHl0QLgdBXjEippuXT69jHN0K8k/Bezier%20Sofa%20by%20Minotti-006.png"
-        }
-      ]
-    }
-  ]
+  "families": []
 }
