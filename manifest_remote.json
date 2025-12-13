@@ -1,29 +1,3 @@
 {
-  "families": [
-    {
-      "id": "00_TRFD",
-      "name": "TRFD",
-      "category": "Sofas",
-      "description": "TRFD",
-      "thumbnailId": "https://api.pcloud.com/getpublink?code=XZb0lC5ZeBm8TUSoe8zlEob4PPiSY5sT1MDX",
-      "familyFileId": "https://api.pcloud.com/getpublink?code=XZj0lC5ZawOLn6w52xQbyLhP2kPVx5EIJgnV",
-      "height": "600",
-      "width": "600",
-      "length": "600",
-      "textureMaps": [
-        {
-          "name": "Bezier Sofa by Minotti-001.png",
-          "fileId": "https://api.pcloud.com/getpublink?code=XZf0lC5ZXvY6gUP6GYYFREVWylrIJVf8qegk"
-        },
-        {
-          "name": "Bezier Sofa by Minotti-003.png",
-          "fileId": "https://api.pcloud.com/getpublink?code=XZs0lC5Zw8WhrAUxsEFScyR07G7fkm8TPtdV"
-        },
-        {
-          "name": "Bezier Sofa by Minotti-006.png",
-          "fileId": "https://api.pcloud.com/getpublink?code=XZg0lC5Z5lz1Ou4WsK70HqYiky4qIJG1g027"
-        }
-      ]
-    }
-  ]
+  "families": []
 }
